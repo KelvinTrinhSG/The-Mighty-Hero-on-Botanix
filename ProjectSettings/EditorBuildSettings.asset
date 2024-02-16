@@ -14,4 +14,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/FlappyBird/Scenes/FlappyBird.unity
     guid: a23e7946c9c953f45a8853ae2cd45e56
+  - enabled: 1
+    path: Assets/DonkeyKong/Scenes/Level1.unity
+    guid: 265a4e25b6025124dbabce88be154826
+  - enabled: 1
+    path: Assets/DonkeyKong/Scenes/Finish.unity
+    guid: 64b5f987f8859d14897bcef8d452123b
   m_configObjects: {}

@@ -2053,7 +2053,7 @@ MonoBehaviour:
     Click
     Quiz below when you are ready.
 
-    You must complete 15 questions correctly
+    You must complete 10 questions correctly
     to get the key to the next wise bird world.'
 --- !u!222 &877813627
 CanvasRenderer:
@@ -2429,7 +2429,7 @@ MonoBehaviour:
     Fly with it and complete the challenges it sets.
 
     When
-    you have reached 200 points. He will give you the key to confront the evil gorilla.'
+    you have reached 50 points. He will give you the key to confront the evil gorilla.'
 --- !u!222 &1019373893
 CanvasRenderer:
   m_ObjectHideFlags: 0
